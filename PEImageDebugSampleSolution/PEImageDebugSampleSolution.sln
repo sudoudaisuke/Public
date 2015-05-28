@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEImageDebugSample", "PEImageDebugSample\PEImageDebugSample.csproj", "{66D28D5A-8FAC-4822-95A7-DDEBE8F5CE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEImageDebugSampleLib", "PEImageDebugSampleLib\PEImageDebugSampleLib.csproj", "{A5944E9B-628C-4F93-ACD8-841F706E9077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D28D5A-8FAC-4822-95A7-DDEBE8F5CE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D28D5A-8FAC-4822-95A7-DDEBE8F5CE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D28D5A-8FAC-4822-95A7-DDEBE8F5CE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D28D5A-8FAC-4822-95A7-DDEBE8F5CE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5944E9B-628C-4F93-ACD8-841F706E9077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5944E9B-628C-4F93-ACD8-841F706E9077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5944E9B-628C-4F93-ACD8-841F706E9077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5944E9B-628C-4F93-ACD8-841F706E9077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
